@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arseno Feri Alzahabi 👋</h1>
-<h3 align="center">Senior Internal Auditor @ PT Bursa Efek Indonesia (IDX) | Data Science × Capital Markets × Sustainability Reporting</h3>
+<h3 align="center"> Data Science & Finance Expert</h3>
 
 <p align="center">
   📍 Bogor, West Java, Indonesia
@@ -15,7 +15,7 @@
 - 🎓 S1 Accounting (Universitas Padjadjaran) → S2 Data Science / Teknik Informatika (Binus University)
 - 💼 Career background across **Big 4 (Deloitte, PwC)**, investment banking (**Macquarie Capital Group**), and fintech data engineering (**Bunker Technology**, Singapore)
 - 📜 Licensed: **WPPE, WPEE, WMI** (Indonesian capital markets professional licenses)
-- 🧩 Founder of **RumahExcel** (under PT Datalis Mentoro Anatdev) — data analytics & Excel training
+- 🧩 Founder of **RumahExcel**  — data analytics & Excel training
 
 ---
 
