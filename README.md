@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arseno Feri Alzahabi 👋</h1>
+**<h1 align="center">Hi, I'm Arseno Feri Alzahabi 👋</h1>
 <h3 align="center"> Data Science & Finance Expert</h3>
 
 <p align="center">
@@ -52,3 +52,4 @@
 ---
 
 <p align="center"><i>Building at the intersection of capital markets regulation, audit, and applied data science.</i></p>
+**
