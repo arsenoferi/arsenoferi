@@ -1,5 +1,5 @@
-**<h1 align="center">Hi, I'm Arseno Feri Alzahabi 👋</h1>
-<h3 align="center"> Data Science & Finance Expert</h3>
+<h1 align="center">Hi, I'm Arseno Feri Alzahabi 👋</h1>
+<h3 align="center">Data Scientist applying ML, NLP & Analytics to Audit, Finance & Sustainability</h3>
 
 <p align="center">
   📍 Bogor, West Java, Indonesia
@@ -9,47 +9,50 @@
 
 ### 🧭 About Me
 
-- 🔎 I work in the **Satuan Pemeriksa Internal (SPI)** division at **PT Bursa Efek Indonesia (BEI/IDX)**, focused on internal audit, IT governance, and audit analytics
-- 📊 I build **data-driven audit tools** — combining traditional internal audit methodology with data science, automation, and AI
-- 🌱 I also work on **GRI / sustainability reporting assurance**, including Internal Control over Sustainability Reporting (ICoSR) frameworks
-- 🎓 S1 Accounting (Universitas Padjadjaran) → S2 Data Science / Teknik Informatika (Binus University)
-- 💼 Career background across **Big 4 (Deloitte, PwC)**, investment banking (**Macquarie Capital Group**), and fintech data engineering (**Bunker Technology**, Singapore)
-- 📜 Licensed: **WPPE, WPEE, WMI** (Indonesian capital markets professional licenses)
-- 🧩 Founder of **RumahExcel**  — data analytics & Excel training
+- 📊 **Data Scientist** (M.S. Data Science / Teknik Informatika, Binus University) with a decade of domain depth in audit, finance, and capital markets
+- 🧠 I build **ML/AI systems that solve real audit and financial analysis problems** — not just models in notebooks, but tools deployed in a regulated enterprise environment
+- 🏦 Senior Internal Auditor at **PT Bursa Efek Indonesia (BEI/IDX)**, where I lead audit analytics and data science initiatives inside the internal audit division (SPI)
+- 🎓 S1 Accounting (Universitas Padjadjaran) → S2 Data Science (Binus University) — the combination that lets me translate between "what the model says" and "what the auditor/regulator needs"
+- 💼 Prior experience: Big 4 audit (Deloitte, PwC), investment banking (Macquarie Capital Group), and data engineering at a Singapore fintech (Bunker Technology)
+- 📜 Licensed capital markets professional: **WPPE, WPEE, WMI**
+- 🧩 Founder of **RumahExcel** — data analytics & automation training
 
 ---
 
-### 🛠️ What I Work On
+### 🔬 Data Science Work
 
-**Audit Analytics & Automation**
-- `ARIA` (Audit Risk Intelligence Assistant) — built with **LangGraph, LangSmith, RAG pipelines, Streamlit**, and Benford's Law analytics on GL data
-- Excel VBA-based GL audit analytics tool: SOD analysis, weekend-entry detection, Z-score anomaly detection, Benford's Law, integrated with the **OpenAI API**
-- Power BI dashboards for BEI financial statement analysis, with DAX measures and MCP integration
-- Copilot Studio + Power Automate architecture for GL / Trial Balance analysis
+**Applied ML / GenAI**
+- **ARIA** (Audit Risk Intelligence Assistant) — an agentic audit assistant built with **LangGraph**, **LangSmith**, and **RAG pipelines**, served through **Streamlit**, applying **Benford's Law** and anomaly detection over general ledger data
+- OpenAI-API-integrated anomaly detection tooling: Z-score outlier detection, segregation-of-duties (SOD) pattern analysis, and weekend/off-hours transaction flagging on GL data
 
-**Sustainability & Governance**
-- GRI Standards conformity assessments and IFRS S2 gap analyses
-- Master Control Matrix toolkit (Excel-based) for ICoSR compliance mapping
-- Data governance audit work mapped to organizational transformation masterplans
+**Statistical Modeling & Research**
+- Thesis: **Monte Carlo simulation + Gradient Boosting** applied to XBRL financial reporting data
+- Published research on **XBRL implementation in Indonesia** (ICDEES 2025, IEEE Xplore)
 
-**Research**
-- S2 thesis: Monte Carlo simulation + Gradient Boosting applied to XBRL data
-- Published on XBRL implementation in Indonesia (ICDEES 2025, IEEE Xplore)
+**Analytics Engineering**
+- Power BI dashboards with DAX measures for financial statement analysis, wired up with MCP integration
+- Data governance and data quality audit work, mapping data-silo and capability-gap hypotheses to organizational strategy
+
+**Applying data science to sustainability**
+- GRI Standards conformity assessment models and IFRS S2 gap analysis
+- Structured control-matrix frameworks (ICoSR) for sustainability reporting assurance
 
 ---
 
-### 💻 Tech I Use
+### 💻 Tech Stack
 
-`Python` · `SQL` · `VBA` · `Power BI (DAX)` · `LangGraph / LangSmith` · `Streamlit` · `OpenAI API` · `Django` · `PostgreSQL` · `Docker`
+**Languages:** `Python` · `SQL` · `VBA`
+**ML/AI:** `LangGraph` · `LangSmith` · `RAG` · `OpenAI API` · `Streamlit`
+**Data & Analytics:** `Power BI (DAX)` · `Pandas` · statistical modeling (Monte Carlo, Gradient Boosting, anomaly detection)
+**Engineering:** `Django` · `PostgreSQL` · `Docker`
 
 ---
 
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arseno-feri-alzahabi/)
-- 🌐 RumahExcel — data analytics & Excel training
+- 🌐 RumahExcel — data analytics & automation training
 
 ---
 
-<p align="center"><i>Building at the intersection of capital markets regulation, audit, and applied data science.</i></p>
-**
+<p align="center"><i>Turning audit and financial data into models, signals, and decisions.</i></p>
